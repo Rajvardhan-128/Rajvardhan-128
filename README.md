@@ -1,4 +1,4 @@
-
+![logo](https://github.com/Rajvardhan-128/Rajvardhan-128/blob/main/coding%20boy.gif)
 
 <br><h1 align="center"> Hi 👋, I'm Rajvardhan Kale</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
