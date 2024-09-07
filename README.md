@@ -1,5 +1,5 @@
 <img align="center" width="auto" alt="coding" 
-    src="coding.png">
+    src="coding1.png">
 
 
 <br><h1 align="center"> Hi 👋, I'm Rajvardhan Kale</h1>
