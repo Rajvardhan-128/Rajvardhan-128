@@ -43,28 +43,21 @@
 ### Cloud (AWS Services)
 
 
-<p float="left">
-  <img src="https://a0.awsstatic.com/libra-css/images/logos/service-ec2_50x50.png" width="50" />
-  <img src="https://a0.awsstatic.com/libra-css/images/logos/service-s3_50x50.png" width="50" />
-  <img src="https://a0.awsstatic.com/libra-css/images/logos/service-ebs_50x50.png" width="50" />
-  <img src="https://a0.awsstatic.com/libra-css/images/logos/service-efs_50x50.png" width="50" />
-  <img src="https://a0.awsstatic.com/libra-css/images/logos/service-vpc_50x50.png" width="50" />
-  <img src="https://a0.awsstatic.com/libra-css/images/logos/service-iam_50x50.png" width="50" />
-</p>
+![EC2](https://img.shields.io/badge/EC2-AWS-blue?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![S3](https://img.shields.io/badge/S3-AWS-orange?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![EBS](https://img.shields.io/badge/EBS-AWS-orange?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![EFS](https://img.shields.io/badge/EFS-AWS-orange?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![VPC](https://img.shields.io/badge/VPC-AWS-blue?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![IAM](https://img.shields.io/badge/IAM-AWS-orange?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![ELB](https://img.shields.io/badge/ELB-AWS-blue?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Route53](https://img.shields.io/badge/Route53-AWS-orange?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![CloudFront](https://img.shields.io/badge/CloudFront-AWS-blue?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![CloudTrail](https://img.shields.io/badge/CloudTrail-AWS-orange?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![SNS](https://img.shields.io/badge/SNS-AWS-blue?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-AWS-orange?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AutoScaling](https://img.shields.io/badge/AutoScaling-AWS-blue?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Lambda](https://img.shields.io/badge/Lambda-AWS-orange?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-<p float="left">
-  <img src="https://a0.awsstatic.com/libra-css/images/logos/service-elb_50x50.png" width="50" />
-  <img src="https://a0.awsstatic.com/libra-css/images/logos/service-route53_50x50.png" width="50" />
-  <img src="https://a0.awsstatic.com/libra-css/images/logos/service-cloudfront_50x50.png" width="50" />
-  <img src="https://a0.awsstatic.com/libra-css/images/logos/service-cloudtrail_50x50.png" width="50" />
-  <img src="https://a0.awsstatic.com/libra-css/images/logos/service-sns_50x50.png" width="50" />
-  <img src="https://a0.awsstatic.com/libra-css/images/logos/service-cloudwatch_50x50.png" width="50" />
-</p>
-
-<p float="left">
-  <img src="https://a0.awsstatic.com/libra-css/images/logos/service-autoscaling_50x50.png" width="50" />
-  <img src="https://a0.awsstatic.com/libra-css/images/logos/service-lambda_50x50.png" width="50" />
-</p>
 ---
 
 # 📊 GitHub Stats
