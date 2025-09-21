@@ -42,7 +42,21 @@
 
 ### Cloud (AWS Services)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)  
-Services learned: **EC2, S3, EBS, EFS, VPC, IAM, ELB, Route53, CloudFront, CloudTrail, SNS, CloudWatch, AutoScaling, Lambda**
+Services learned:  
+![EC2](https://img.shields.io/badge/EC2-%23007ACC.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)  
+![S3](https://img.shields.io/badge/S3-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)  
+![EBS](https://img.shields.io/badge/EBS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)  
+![EFS](https://img.shields.io/badge/EFS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)  
+![VPC](https://img.shields.io/badge/VPC-%23007ACC.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)  
+![IAM](https://img.shields.io/badge/IAM-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)  
+![ELB](https://img.shields.io/badge/ELB-%23007ACC.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)  
+![Route53](https://img.shields.io/badge/Route53-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)  
+![CloudFront](https://img.shields.io/badge/CloudFront-%23007ACC.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)  
+![CloudTrail](https://img.shields.io/badge/CloudTrail-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)  
+![SNS](https://img.shields.io/badge/SNS-%23007ACC.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)  
+![CloudWatch](https://img.shields.io/badge/CloudWatch-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)  
+![AutoScaling](https://img.shields.io/badge/AutoScaling-%23007ACC.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)  
+![Lambda](https://img.shields.io/badge/Lambda-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)  
 
 ---
 
